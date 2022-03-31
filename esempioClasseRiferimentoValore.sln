@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esempioClasseRiferimentoValore", "esempioClasseRiferimentoValore\esempioClasseRiferimentoValore.csproj", "{DFD431C3-105F-417E-ACBA-EBB3FDED868F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD431C3-105F-417E-ACBA-EBB3FDED868F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD431C3-105F-417E-ACBA-EBB3FDED868F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD431C3-105F-417E-ACBA-EBB3FDED868F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD431C3-105F-417E-ACBA-EBB3FDED868F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBBCFF0E-9B40-4686-8752-7DE2E20670BB}
+	EndGlobalSection
+EndGlobal
