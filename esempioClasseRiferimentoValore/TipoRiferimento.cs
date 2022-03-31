@@ -57,6 +57,12 @@
             String[] nomiArray = { "luca", "paolo", "michelle" };
             String[] nuoviNomiArray = nomiArray;
 
+            // Quando andiamo a inizializzare le due variabili nomiArray e nuoviNomiArray, creiamo un nuovo array assegnandolo a nomiArray.
+            // Successivamente, il valore assegnato a nuoviNomiArray altro non è che una copia per riferimento dell'array nomiArray.
+            // Per questo motivo, possiamo vedere che cambiando il valore del primo elemento dell'array nuoviNomiArray, anche il primo elemento
+            // dell'array nomiArray cambia di valore, poichè entrambi puntano allo stesso array come riferimento.
+
+
             Console.WriteLine(nomiArray[0]);
             Console.WriteLine(nuoviNomiArray[0]);
 
